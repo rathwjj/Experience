@@ -4,10 +4,10 @@
 ### Motorola Solutions (Canada) — Technical Support Specialist (Full Time)
 <details>
 <summary>Business: Cloud-Based Security Systems | 2024–2025 | Period: 1 year 3 months</summary>
-- Resolved 2,500+ Tier 2/3 technical support cases for cloud-native AI surveillance systems, ensuring SLA compliance and system uptime.<br>
-- Assisted in more than 300 cases and escalated over 100 cases directly to the software development team.<br>
-- Published 30 internal knowledge base articles and technical documents.<br>
-- Recognized with an award for achieving outstanding customer satisfaction and efficient case handling.  
+- Resolve 2,500+ Tier 2/3 technical support cases for cloud-native AI surveillance systems, ensuring SLA compliance and system uptime.<br>
+- Assist in more than 300 cases and escalated over 100 cases directly to the software development team.<br>
+- Publish 30 internal knowledge base articles and technical documents.<br>
+- Recognize with an award for achieving outstanding customer satisfaction and efficient case handling.  
 </details>
 
 ### Avasotech (Canada/Thailand) — Network Engineer (Contract)
@@ -25,7 +25,7 @@
 ### DS Automation (Thailand) — Implement, Technical Trainer (Contract)
 <details>
 <summary>Business: Office Automation | 2014–2020 | Period: 6 years</summary>
-- Implemente and provide training for Office Automation for a Government Project with the Thailand Industrial Ministry.
+- Implement and provide training for Office Automation for a Government Project with the Thailand Industrial Ministry.
 </details>
 
 ### Summit Computer Co.,ltd (Thailand) — MS SQL Trainer (Course Based)
@@ -37,14 +37,14 @@
 ### Pacific Network (Hong Kong) — Subcontractor (Contract)
 <details>
 <summary>Business: Internet Service Provider | 2002–2002 | Period: 6 months (Contract)</summary>
-- Subcontracte to install network interfaces for Pacific Network.
+- Subcontract to install network interfaces for Pacific Network.
 </details>
 
 ### Advanced Info Service PLC (Thailand) — Technical Trainer, Network Planning Engineer, Telecommunication Systems Planning Engineer (Full Time)
 <details>
 <summary>Business: Mobile Service Provider | 1996–2001</summary>
-- Instructe on TCP/IP in 2G/3G mobile networks.  <br>
-- Instructe on encryption and multiplexing data on low bandwidth (2Mbps).  <br>
+- Instruct on TCP/IP in 2G/3G mobile networks.  <br>
+- Instruct on encryption and multiplexing data on low bandwidth (2Mbps).  <br>
 - Digitize map data information using AutoCAD.  <br>
 - Migrate data from AutoCAD and other databases to Mapinfo GIS.  <br>
 - Plan radio frequency encryption and microwave transmission.
