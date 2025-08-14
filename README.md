@@ -88,8 +88,8 @@
 - Manage budget and IT database management for hemodialysis (Healthcare) across 30 sites in Thailand.
 - Handle automation systems related to monitoring analog systems and transforming them to EHR.
 - Audit computer network infrastructure.
-
 </details>
+
 ### Amornwit Medical Co.,ltd. (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Pharmacy Retailer | 2011–2023 | Period: 12 years</summary>
