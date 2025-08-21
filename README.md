@@ -25,13 +25,16 @@
 ### DS Automation (Thailand) — Implement, Technical Trainer (Contract)
 <details>
 <summary>Business: Office Automation | 2014–2020 | Period: 6 years</summary>
-- Implement and provide training for Office Automation for a Government Project with the Thailand Industrial Ministry.
+- Implement and provide training for Office Automation for a Government Project with the Thailand Industrial Ministry. <br>
+- Design and deploy knowledge-based systems and supporting infrastructure to improve organizational efficiency.<br>
+- Deliver training on basic computer systems and office automation tools to officers and probationers at Youth Probation Centers in Meeburi, Chonburi, and Chachoengsao.
 </details>
 
 ### Summit Computer Co.,ltd (Thailand) — MS SQL Trainer (Course Based)
 <details>
 <summary>Business: Information Systems Consultant | 2005–2005 | Period: 1 month (Contract)</summary>
-- Serve as an instructor for Microsoft SQL Server 2005.
+- Serve as an instructor for Microsoft SQL Server 2005.<br>
+- Organize SQL basic courses.
 </details>
 
 ### Pacific Network (Hong Kong) — Subcontractor (Contract)
@@ -60,13 +63,16 @@
 ### APS Dialysis (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Hemodialysis | 2019–2023 | Period: 4 years</summary>
-- Maintain the database, EHR, and network infrastructure.
+- Maintain the database, EHR, and network infrastructure.<br>
+- Implement Network Infrastruture in the new facility.
 </details>
 
 ### AeonMed Co.,ltd (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Pharmacy Manufacture | 2019–2022 | Period: 3 years</summary>
-- Maintain inventory systems for pharmaceutical data.
+- Maintain inventory systems for pharmaceutical data.<br>
+- Merge Database to complie EMR systems.
+  
 </details>
 
 ### EMC Imex (Thailand) — Computer Support (Contract)
@@ -94,13 +100,15 @@
 <details>
 <summary>Business: Pharmacy Retailer | 2011–2023 | Period: 12 years</summary>
 - Maintain inventory systems for pharmaceutical data.  <br>
-- Audit computer network infrastructure.
+- Audit computer network infrastructure.<br>
+- Design and Implement Digital Tranform data sheet from Analog to EHR systems.
 </details>
 
 ### Renal Care Co.,ltd (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Hemodialysis | 2011–2023 | Period: 12 years</summary>
-- Implement computer network infrastructure.
+- Implement computer network infrastructure.<br>
+- Set up new systems at Yanhee Hospital.
 </details>
 
 ### AM D Medical (Thailand) — Computer Support (Contract)
@@ -149,14 +157,16 @@
 <details>
 <summary>Business: Restaurant | 2012–2023 | Period: 11 years</summary>
 - Audit computer network infrastructure.  <br>
-- Maintain office hardware, software, and network infrastructure.
+- Maintain office hardware, software, and network infrastructure.<br>
+- Assist in transfer knowledge from Singapore main office to Thai staffs.
 </details>
 
 ### GDP Food / Sushiden (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Japanese Restaurant | 2010–2020 | Period: 10 years</summary>
 - Audit computer network infrastructure.  <br>
-- Maintain office hardware, software, and network infrastructure.
+- Maintain office hardware, software, and network infrastructure.<br>
+- Assist in transfer knowledge from Japan main office to Thai staffs.
 </details>
 
 ### Maxis Pizzaria (Thailand) — Computer Support (Contract)
@@ -171,20 +181,21 @@
 <summary>Business: Japanese Restaurant | 2009–2015 | Period: 6 years</summary>
 - Audit computer network infrastructure.  <br>
 - Maintain office hardware, software, and network infrastructure.
+- Assist in transfer knowledge from Japan main office to Thai staffs.
 </details>
 
 ## Construction
 ### CH Engineering Group Co.,ltd. (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Construction | 2020–2022 | Period: 2 years</summary>
-- Implement surveillance systems.  <br>
+- Implement surveillance systems eg. CCTV, ticketing systems, biometrics systems.<br>
 - Maintain office hardware, software, and network infrastructure.
 </details>
 
 ### Grand Dragon Construction Co.,ltd (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Construction | 2017–2019 | Period: 2 years</summary>
-- Implement surveillance systems.  <br>
+- Implement surveillance solutions, including CCTV systems and staff access card controls.<br>
 - Maintain office hardware, software, and network infrastructure.
 </details>
 
@@ -245,7 +256,8 @@
 ### Hachi (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Leather Product Manufacture | 2009–2011 | Period: 2 years</summary>
-- Maintain office hardware, software, and network infrastructure.
+- Maintain office hardware, software, and network infrastructure.<br>
+- Consolidate and integrate systems to improve vendor support and streamline collaboration processes.
 </details>
 
 ### Atlas Alloy Asia Co.,ltd (Thailand) — Computer Support (Contract)
@@ -265,6 +277,7 @@
 <details>
 <summary>Business: Car Care Product Manufacture | 2004–2009 | Period: 5 years</summary>
 - Translate working manuals from Japanese to Thai.  <br>
+- Assist in transferring knowledge from the Japan headquarters to Thai staff, supporting skill development and effective technology adoption.<br>
 - Implement software interfaces on computer-aided manufacturing systems.  <br>
 - Maintain office hardware, software, and network infrastructure.
 </details>
@@ -321,7 +334,8 @@
 <summary>Business: Legal and Accountant Solutions | 2018–2023 | Period: 5 years</summary>
 - Design and migrate databases to a cloud-based solution.  <br>
 - Migrate Government Saving Bank liquidation systems to the cloud.  <br>
-- Maintain office hardware, software, and network infrastructure.
+- Maintain office hardware, software, and network infrastructure.<br>
+- Design and deploy knowledge-based systems and supporting infrastructure to improve organizational efficiency.
 </details>
 
 ### Kasikorn Bank PLC (Thailand) — Trainee
@@ -364,6 +378,7 @@
 - Implement nationwide investigation software and conducted technical training.  <br>
 - Assist with crime investigation software and database systems.  <br>
 - Assist with infrastructure/hardware implementation and maintenance.
+- Assisted in transferring knowledge from the AFP instructor to Royal Thai polices.
 </details>
 
 ### Recruiter and Training Center
@@ -396,7 +411,8 @@ Career Bolt (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Talent, Training | 2009–2018 | Period: 9 years</summary>
 - Maintain office hardware, software, and network infrastructure.  <br>
-- Assist in preparing remote access for training.
+- Assist in preparing remote access for training.<br>
+- Design and deploy knowledge-based systems and supporting infrastructure to improve organizational efficiency.
 </details>
 
 ## Retailer
@@ -497,8 +513,10 @@ Career Bolt (Thailand) — Computer Support (Contract)
 ### Thaistar Shipping / Zim Logistics / MIT Logistics (Thailand) — Computer Support (Contract)
 <details>
 <summary>Business: Shipping Solutions | 2002–2013 | Period: 11 years</summary>
-- Maintain office hardware, software, and network infrastructure.  <br>
-- Implement Splat (Secure Platform Checkpoint Linux Custom Firewall Systems).
+- Assist in designing, implementing, and integrating systems with Microsoft Active Directory to streamline user management and security.<br>
+- Maintain Office Hardware/ Software / Network Infrastructure.<br>
+- Implement Splat (Secure Platform Checkpoint Linux Custom Firewall Systems)<br>
+- Design and deploy knowledge-based systems and supporting infrastructure to improve organizational efficiency.
 </details>
 
 KOS - Kaosarn Tour (Thailand) — Part-time Intern
