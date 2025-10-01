@@ -524,3 +524,40 @@ KOS - Kaosarn Tour (Thailand) — Part-time Intern
 <summary>Business: Travel Agency | 1992–1992 | Period: 3 months</summary>
 - Work as a tourist guide assistant during a bachelor's degree in Electrical Engineering.
 </details>
+
+## Special Projects & Committees
+
+### Advanced Info Service PLC (Thailand) — Telecom Engineering & Committees
+<details>
+<summary>Business: Mobile Service Provider | 1996–2001 | Period: 5 years</summary>
+- Served on the **Prepaid Mobile Billing Systems Committee** to optimize mobile billing processes.  
+- Participated in the **GSM to 3G migration committee**, focusing on training and facility readiness.  
+- Digitized and transformed **Microwave and 900 MHz license frequency data** from AutoCAD to MapInfo GIS for nationwide planning.  
+- Designed and developed a demo version of a **Career Path & Competency Management System** for HR.  
+</details>
+
+### Allied Dialysis (Thailand) — IT Project Lead & Technical Coordinator
+<details>
+<summary>Business: Hemodialysis | 2012–2023 | Period: 11 years</summary>
+- Migrated **IoT monitoring systems and surveillance cameras** to support patient safety and early issue detection.  
+- Coordinated integration of **dialysis machine inputs with patient health records and EHR systems**, including inventory management.  
+- Oversaw IT budget, database management, and infrastructure upgrades across 30+ dialysis centers in Thailand.  
+</details>
+
+### El Al Israel Airlines / Philippine Airlines (Thailand) — Airport IT Relocation Support
+<details>
+<summary>Business: Airlines | 2002–2013 | Period: 11 years</summary>
+- Served as **Head Information Systems Lead** for relocating IT and communication systems during the move from **Don Mueang International Airport to Suvarnabhumi Airport**.  
+- Assisted Project Lead in providing **emergency IT relocation support** during temporary transfer of systems to **U-Tapao Airport**.  
+- Maintained business continuity for mission-critical airline operations during transitions.  
+</details>
+
+### Australian Federal Police (Thailand) — Crime Investigation Systems Support
+<details>
+<summary>Business: International Police & Security | 2007–2013 | Period: 6 years</summary>
+- Assisted Project Lead in the **knowledge transfer of crime investigation systems** to the Royal Thai Police.  
+- Implemented and supported **nationwide investigation database software**.  
+- Delivered **technical training** for officers, analysts, and support staff.  
+- Supported IT infrastructure, ensuring secure and stable operations for sensitive data.  
+</details>
+
